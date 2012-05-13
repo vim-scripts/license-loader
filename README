@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4064
+
+a vim script to load a license template
+
+Usage:
+:call  LoadMyLicense('apache')
+
+you can add or modify the license template in templates/license/*
